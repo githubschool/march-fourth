@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
+- Class Date: March 4thish
 - Facilitator: @TEACHER-HANDLE
 
 ## Talk to Us!!
